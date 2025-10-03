@@ -1,3 +1,5 @@
+[演示视频](https://www.bilibili.com/video/BV1zQHszgEcE)
+
 This project is a reproduction of a series of PBD (Position Based Dynamics) papers, implemented using the Taichi library.
 It features several solvers: the original PBD, a global PBD solver (which considers all constraints simultaneously—a method that is nearly infeasible in practice and was implemented for experimental purposes), and an XPBD solver.
 
